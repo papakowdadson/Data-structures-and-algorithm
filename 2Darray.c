@@ -11,5 +11,6 @@ int main()
             printf("%d", A[i][j]);
         }
         printf("\n");
+        printf("you must keep moving");
     }
 }
